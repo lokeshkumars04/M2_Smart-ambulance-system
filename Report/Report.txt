@@ -1,0 +1,5 @@
+REPORT:
+
+
+	Handling the traffic congestion is indeed very difficult. With the arrival of ambulances it becomes even more typical to pave a way for them especially during peak hours. Therefore a smart ambulance with an automatic traffic control system is proposed. This system uses the LoRA module which has a long-range of 1000 metre. The LoRA transmitter is fixed in an ambulance which gets paired with the receiver in the traffic signal. The medical staff present inside the ambulance can do basic vital checkups. These information are sent to nearby hospitals using IoT to minimise the delay caused during pre-examination of patients. During the arrival of multiple medical vehicles, the severity priority fixed by the medical staff helps to determine the priority of the vehicle.   
+
