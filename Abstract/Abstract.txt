@@ -1,0 +1,9 @@
+
+
+ABSTRACT:
+
+
+As the population increases in developing countries, the density of vehicles on the road also increases which leads to congestion on the road due to vehicles. These congestions are very high, especially during peak hours. Traffic jams become more difficult to handle when an emergency vehicle like an ambulance paves its way through them. Traffic inspectors may not be present in all the traffic junctions, which in turn may lead to accidents or more severe traffic jams. To solve this issue a NRF module-based system is proposed which can regulate the traffic signal at the junction when an ambulance passes by. The LoRA transmitter inside the ambulance will get paired with the receiver which is fixed in the signal as the vehicle enters within the range. This enables the ambulance driver to change the traffic signal. This system can help to provide easy passage for an ambulance by avoiding or creating traffic congestion. Also, the details of patients like pulse, oxygen level, temperature and blood pressure can be accumulated using various sensors like oximeter, temperature, and blood pressure will be sent to nearby hospitals via IoT cloud. During the arrival of multiple emergency vehicles, the prioritizing vehicle algorithm is used based on the severity of the patient. This pre-examination of the patient can reduce the initial formality procedure in the hospital. This way a patient can be directly sent to the respective ward for their treatment. 
+
+Keywords: LoRA module, traffic, ambulance, prioritizing vehicle algorithm....
+
