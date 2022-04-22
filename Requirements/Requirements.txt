@@ -1,0 +1,19 @@
+Smart ambulance with automatic traffic control is proposed to avoid prolonged time due to traffic. Smart ambulance with automatic traffic control help to regulate traffic congestion and also collect patient details and send them to nearby hospitals using IoT. The LoRA module is used in this system. The LoRA tag is fixed inside the ambulance. The range of the LoRA module is 1000 meters. LoRA module reader or receiver is fixed inside the traffic signal. The traffic signal consists of red, yellow, green with  straightway, and green with right turn
+
+
+As soon as an ambulance approaches the traffic signal, the LoRA tag automatically connects with the LoRA receiver. The signal will automatically turn green on straight roads. But injunctions with crossroads, then the driver of the ambulance will have manual control either to turn the signal green with a straight road or make it green with a right turn thus paving the way for the ambulance.
+Making the ambulance smart by using IOT so that the pre-medical conditions of the patients can be collected. In an ambulance, there is always a medical staff present. 
+
+
+As soon as the patient enters the ambulance, the medical staff can collect information about the patient like oxygen level using an oximeter sensor, blood pressure using a bp sensor, heart rate using an oximeter sensor, and temperature using a temperature sensor. 
+Also, the severity of the patient can be scaled by the medical staff. This information is sent to nearby hospitals using IoT. This information will reduce delays when the patients reach the hospital, such that they can be transferred to the respective wards as soon as patients reach the hospital.
+
+ 
+Sometimes in the crossroad junctions, multiple emergency vehicles may arrive from opposite or adjacent sides. This might again create complicated scenarios where multiple ambulance drivers may turn the signal green at the same time. In such situations, the severity scale can be used to mark the ambulance with priority. During the pre-examination of the patients, the medical staff would have scaled the severity of the patient. Thus based on the level of severity priority will be given to the respective ambulance. The ambulance with more priority can regulate the traffic signal. 
+
+
+In case multiple ambulances with the same severity arrive, then the ambulance that connected first with the LoRA receiver of the signal will be given priority to the mood ahead first.
+
+
+
+
